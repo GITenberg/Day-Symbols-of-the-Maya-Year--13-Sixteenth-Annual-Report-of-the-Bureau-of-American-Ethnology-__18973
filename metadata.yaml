@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1415
     wikipedia: http://en.wikipedia.org/wiki/Cyrus_Thomas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18973#Day-Symbols-of-the-Maya-Year--13-Sixteenth-Annual-Report-of-the-Bureau-of-American-Ethnology-_
 gutenberg_issued: '2006-08-03'
 gutenberg_type: Text
 identifiers:
