@@ -1,0 +1,29 @@
+_repo: Day-Symbols-of-the-Maya-Year--13-Sixteenth-Annual-Report-of-the-Bureau-of-American-Ethnology-__18973
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomas, Cyrus
+    birthdate: 1825
+    deathdate: 1910
+    gutenberg_agent_id: '1415'
+    url: http://www.gutenberg.org/2009/agents/1415
+    wikipedia: http://en.wikipedia.org/wiki/Cyrus_Thomas
+description: ''
+gutenberg_issued: '2006-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18973'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maya calendar'
+- !lcc 'E011'
+title: "Day Symbols of the Maya Year\r\nSixteenth Annual Report of the Bureau of American\
+  \ Ethnology to the Secretary of the Smithsonian Institution, 1894-1895, Government\
+  \ Printing Office, Washington, 1897, pages 199-266."
+url: http://www.gutenberg.org/ebooks/18973
